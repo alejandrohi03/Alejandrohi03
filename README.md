@@ -20,8 +20,8 @@
 ¡Si tienes ideas, sugerencias o simplemente quieres charlar sobre desarrollo de software, no dudes en contactarme! Estoy abierto a la colaboración y al aprendizaje conjunto.
 
 ### 📫 Cómo Contactarme
-- [LinkedIn](tu-link-de-linkedin)
-- [Correo Electrónico](tu-correo-electronico)
+- [LinkedIn](https://www.linkedin.com/in/alejandro-hidalgo-izquierdo-8a3b33205/)
+- [Correo Electrónico](alejan_hi@hotmail.com)
 
 ¡Gracias por pasar por aquí! 🚀
 
